@@ -12,7 +12,7 @@ const Header = () => {
                 alt="MediMeet Logo"
                 width={200}
                 height={60}
-                classname="h-10 w-auto object-contain"
+                className="h-10 w-auto object-contain"
             />
         </Link>
       </nav>
